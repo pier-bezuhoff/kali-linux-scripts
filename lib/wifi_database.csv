@@ -1,0 +1,149 @@
+**essid,bssid,channel,wps,auth,power,macs[,<key>:<value>,...]**
+Birmingham,14:DA:E9:84:B9:70,13,-,WPA2,-60,E4:B3:18:F5:88:8B B8:8A:60:CC:D8:9B,speed:54,lol:laugh
+Keenetic-7734,10:7B:EF:55:34:08,11,Open,WPA,-49,9C:B7:0D:95:9A:42,pixie:yes,speed:54,wpa_psk:EZ6rChZQ,wps_pin:55838801
+358,98:DE:D0:A9:8F:96,2,Locked,WPA2 WPA,-60,,p1_index:5,note:AP ratelimit,speed:54,pixie:no
+InterZet-at-home,26:FF:3F:F3:05:27,6,-,WPA2,-77,,speed:54
+MTSRouter-F9BE06,90:8D:78:F9:BE:06,5,Open,WPA2,-61,64:CC:2E:FB:61:3F A0:6F:AA:56:7B:BC,pixie:yes,speed:54,wpa_psk:97740322,wps_pin:97740322
+surgery,26:FF:3F:51:FB:7B,-1,-,WPA2,-100,,speed:54
+Interzet49,26:FF:3F:53:59:2B,11,-,WPA2,-66,90:F1:AA:36:58:D0 AC:EE:9E:4B:C6:74,speed:54
+InterZet-39,26:FF:3F:0E:86:5F,2,-,WPA2,-68,64:76:BA:B8:9A:48 00:03:AB:40:62:22 20:10:7A:45:9F:13 CC:3D:82:17:52:2D BC:14:85:4F:3C:57  00:03:AB:40:62:22 D4:4B:5E:5E:D9:C0 24:E3:14:84:43:D4,speed:54
+ASUS-20,9C:5C:8E:C9:FE:4C,6,Open,WPA2,-67,A0:32:99:00:69:07,speed:54,pixie:no,wps_pin:,p1_index:7,note:AP ratelimit
+HomeLab,DC:9F:DB:08:98:0D,10,-,WPA2,-79,94:DB:C9:AD:1D:BC,speed:54
+DIR-300NRUB6,28:10:7B:F6:46:24,6,Open,WPA,-79,,pixie:yes,speed:54,wpa_psk:76543210,wps_pin:61398122
+TP-LINK_B4DA,18:A6:F7:E2:B4:DA,10,Locked,WPA2,-85,EC:08:6B:1B:C9:89 08:ED:B9:5F:BB:8E,p1_index:8,speed:54,pixie:no,wps_pin:
+UPVEL,D4:BF:7F:46:15:46,1,-,WPA2,-79,80:A5:89:0C:8C:CD,speed:54
+alijoon,F8:F0:82:E4:B8:D5,9,-,WPA2,#46,40:16:3B:54:91:AB 40:45:DA:95:36:CB 84:8E:DF:13:87:16,speed:54
+SVM-Work,82:2A:A8:3F:C0:70,6,-,WPA2,-82,28:ED:6A:2D:CA:A6 24:0A:64:AA:8E:DF,speed:54
+SVM-Inet,92:2A:A8:3F:C0:70,6,-,WPA2,-82,,speed:54
+Keenetic-1249,28:28:5D:D7:36:E4,11,Open,WPA2,-82,08:ED:B9:5F:BB:8E,pixie:yes,speed:54,wpa_psk:EsHA6jMM,wps_pin:41042922
+(null),28:6C:07:65:C6:10,11,-,WPA2,-73,FC:75:16:5E:64:1E,speed:54
+sdf,82:EF:68:FD:33:9C,8,-,WPA2,-87,,speed:54
+nadin,D8:50:E6:5D:04:CC,13,Open,WPA2,-83,,speed:54
+sdf700,90:EF:68:FD:33:9C,8,-,WPA2,-86,,speed:54
+ASUS,50:46:5D:0C:F0:70,13,-,WPA2,-77,60:5B:B4:83:11:23,speed:54
+DIRECT-fLM262x 282x Series,02:15:99:E6:2A:26,8,Open,WPA2,-84,,speed:54
+BMW,BC:AE:C5:C5:09:73,1,Open,WPA2,-89,,speed:54
+MegaFonMR100,E8:08:8B:48:78:F8,1,-,WPA2,-87,9C:04:EB:9D:0E:FE,speed:54
+vadim link,1C:AF:F7:2A:29:9E,13,Open,WEP,-100,00:15:AF:42:05:48,speed:54
+default,20:CF:30:88:E4:E9,11,-,OPN,-87,E4:12:1D:25:AE:15 90:69:2C:7E:2E:74,speed:54
+kv-61,74:D0:2B:58:45:DC,11,Open,WPA2,-88,,speed:54
+TP-LINK_8B74,F4:F2:6D:20:8B:74,4,Open,WPA2,-90,,speed:54
+TP-LINK_6422,18:A6:F7:71:64:22,6,Open,WPA2,-100,,speed:-1
+ZTE BLADE A510,36:69:87:22:47:87,6,,WPA2,-91,,speed:54
+cocsik,10:FE:ED:80:CB:38,9,,WPA2,-93,,speed:54
+sky65,10:FE:ED:7A:FA:38,5,Open,WPA2,#42,,speed:54
+avangard,BC:F6:85:4B:E5:D3,1,-,WPA2,-86,,speed:54
+,20:4E:7F:30:B7:DE,2,,WPA,-100,,speed:-1
+Morozkov,F8:F0:82:F1:01:36,5,-,WPA2,-88,,speed:54
+interzet-27,3C:1E:04:90:8C:C1,9,-,WPA,-81,,speed:54
+64,2C:56:DC:5F:AB:A0,11,Open,WPA2,-85,,speed:54
+Leontidi,D4:6E:0E:53:79:D0,11,Open,WPA2,-85,,speed:54
+VitalyNet,60:E3:27:E0:4D:14,2,Locked,WPA2,-87,,speed:54
+vega,74:D0:2B:8B:DB:A0,12,-,WPA2,#34,,speed:54
+DIR-300NRU,FC:75:16:E9:C0:A8,2,,WPA,-87,,speed:54
+Interzet-25,C4:A8:1D:62:C1:16,7,-,WPA2 WPA,#45,,speed:54
+Julia,F8:F0:82:B1:D7:5C,5,-,WPA2,#30,,speed:54
+inetrzrt17,08:60:6E:DF:E3:C4,2,-,WPA2,-92,,speed:54
+SkyNet18,64:66:B3:4F:8A:A0,1,Open,WPA2 WPA,-88,,speed:54
+Alenka,54:E6:FC:9B:56:C6,11,-,WPA,#31,,speed:11
+InterZet82,26:FF:3F:D4:6B:A7,9,-,WPA2,-88,,speed:54
+WiFi-DOM.RU-2635,20:4E:7F:8F:09:29,13,,WPA2,-93,,speed:54
+Sedimetry,C0:4A:00:B1:DD:98,3,Locked,WPA2 WPA,-87,,speed:54
+,EC:08:6B:D2:3C:90,2,,,-100,,speed:-1
+,00:19:CB:8C:A0:C9,1,,,-100,,speed:-1
+ASUS,BC:EE:7B:80:D8:4C,11,Open,WPA2,-85,,speed:54
+Dom.ru 31,D8:50:E6:5F:73:6C,1,-,,#2,,speed:
+Zemlyane,80:26:89:10:EB:B5,13,-,WPA2,-89,,speed:54
+DIR-630,90:94:E4:EF:A2:62,1,-,WPA2,-88,,speed:54
+TP-LINK,54:E6:FC:C7:D0:FA,2,,WPA2 WPA,-93,,speed:54
+sai7382,70:8B:CD:B1:67:30,12,Open,WPA,-100,8C:C5:E1:28:06:D3,speed:-1
+Keenetic-3077,E4:18:6B:28:88:B4,11,Locked,WPA2,-87,,speed:54
+(null),CC:5D:4E:FE:01:6A,13,-,WPA2,#14,,speed:54
+TP-LINK_4DC3BE,F8:1A:67:4D:C3:BE,8,Open,WPA2,-89,,speed:54
+InterZet-at-home,26:FF:3F:2F:E2:7A,2,-,WPA2,-88,CC:73:14:14:EE:5D,speed:54
+kv25,AC:85:3D:ED:23:FC,8,-,WPA2 WPA,-91,,speed:54
+yurhan88,C8:6C:87:42:69:35,2,,WPA2,-92,,speed:54
+Default,14:D6:4D:86:AF:CC,1,Open,WPA2,-92,,speed:54
+Tanya,FA:F0:82:5E:95:54,3,-,WPA2,-85,,speed:54
+Anna,D4:CA:6D:6C:E2:9D,1,-,WPA2 WPA,-88,,speed:54
+,B0:38:29:4A:F6:7C,1,,,-100,,speed:-1
+,00:30:4F:61:04:44,10,,,-100,,speed:-1
+Milash_1983,70:8B:CD:C7:BD:28,5,,WPA2,-91,,speed:54
+Fast,60:A4:4C:8C:66:C8,13,-,WPA2,#38,,speed:54
+,AC:F1:DF:2F:54:96,7,,WPA,-100,D0:17:C2:53:B8:08,speed:-1
+,2C:B0:5D:81:F7:C6,1,,,-100,8C:F5:A3:7D:67:76,speed:-1
+Toncho,BC:AE:C5:C3:BC:96,1,Open,WPA2,-88,,speed:54
+ORIENT 2010,C0:4A:00:6C:B1:CF,6,Open,WPA2 WPA,-90,,speed:54
+WirelessNet,E0:24:7F:27:1A:30,7,-,WPA,-83,,speed:54
+MTSRouter-11FA7F,A0:AB:1B:11:FA:7F,11,Open,,#38,,speed:
+AP3,64:66:B3:BA:8A:C2,13,-,WEP,-76,F8:1A:67:96:93:56 54:EF:92:BD:8B:52,speed:54,wpa_psk:12345
+ASUS_20,38:D5:47:C3:19:20,1,Open,WPA2,-68,1C:99:4C:3E:DA:CC E0:06:E6:27:92:36 D4:AE:05:67:7F:0F,p1_index:5,note:AP rate limit,speed:54,pixie:no
+Wive-32,FA:F0:82:36:B0:B0,3,,WPA,-85,,speed:54
+AP3,64:66:B3:BA:93:72,13,-,WEP OPN,-84,,speed:54
+AP3,F8:1A:67:96:93:56,13,-,WEP,-86,64:66:B3:BA:93:72,speed:54
+Keenetic,04:BF:6D:64:D8:EE,1,-,WPA2,-84,EC:1F:72:45:A9:B1,speed:54
+Wive-NG-MT,FA:F0:82:E5:0C:80,3,-,WPA2,-84,,speed:54
+Wive-NG-MT,F8:F0:82:3B:9D:D0,3,-,WPA2,-86,,speed:54
+DIR-300NRUB6,CC:B2:55:9E:D5:0A,1,-,,#8,,speed:
+\xD0\xB4\xD1.\xD0\xB0\xD1.\xD1.\xD1.\xD0\xB8))2.4g)0),E4:BE:ED:6B:30:4F,1,-,WPA2,-71,,speed:54
+Germanik,20:E5:2A:05:CF:CA,6,Locked,WPA2,-70,,p1_index:3,speed:54,pixie:no
+Kiril_2G,78:94:B4:52:58:BC,11,-,WPA2,-75,,speed:54
+MTSRouter-225,90:8D:78:B6:C0:7E,5,-,WPA2,-85,,speed:54
+Beeline_2G_FF5835,E0:60:66:4C:41:24,11,-,WPA2,-81,,speed:54
+ABTOP,14:CC:20:33:42:C0,6,Open,WPA2,-80,,speed:54,wpa_psk:07011987,wps_pin:21325755
+SkyNet233,74:D0:2B:3A:28:98,1,Open,WPA2,-86,,pixie:no?,speed:54
+krvsk,E0:3F:49:1D:C0:E8,6,Open,WPA2,-90,00:EC:0A:E3:93:07 64:E6:82:B6:4D:09,speed:54
+MTS89,1C:AF:F7:96:5F:CB,6,-,WPA2,-83,BC:14:85:E7:F6:9B,speed:54
+Keenetic-2356,EC:43:F6:00:27:FC,3,Open,WPA2,-84,D8:9A:34:1D:E5:FA 74:2F:68:6F:83:B2,speed:54,wpa_psk:puS4FRTB,wps_pin:00102360
+,E0:3F:49:76:B0:C0,1,-,WPA,-79,,speed:-1
+DIR-615,1C:5F:2B:EA:0F:6A,5,Open,WPA2,-88,,speed:54
+KOTs,2C:56:DC:86:D1:74,6,Open,WPA2,-87,60:03:08:EF:60:3E,pixie:no,speed:54
+MTSRouter-7F17E1,90:8D:78:7F:17:E1,13,Open,WPA2,-83,,speed:54
+Markiz,AC:85:3D:90:D1:98,7,-,WPA2 WPA,-83,,speed:54
+SkyNet,5C:D9:98:1B:E5:38,11,-,WPA2,-87,1C:AF:F7:6D:58:D7,speed:54
+iZet-88,C4:A8:1D:62:B9:9A,11,-,WPA2 WPA,-83,,speed:54
+TsHomeNet,20:CF:30:88:DF:22,1,-,WPA,-83,,speed:54
+Dog-Aire-2.4,A0:AB:1B:30:AA:D8,9,-,WPA2,-83,,speed:54
+ROSTELECOM_4938,C8:91:F9:CA:49:39,11,-,WPA2,-91,,speed:54
+Keenetic-8348,28:28:5D:85:01:D0,11,Open,WPA2,-84,,speed:54
+Network-e894f6b3d5b0,E8:94:F6:B3:D5:B0,5,Open,WPA2 WPA,-84,,speed:54
+293,6C:19:8F:FD:93:5A,9,-,WPA2,-85,,speed:54
+maksiom,84:C9:B2:5F:B2:EE,8,Open,WPA2,-85,,speed:54
+net81,00:22:B0:40:24:EF,6,Open,WPA2 WPA,-85,,speed:54
+MTSRouter-242,A0:AB:1B:11:DD:AF,11,-,WPA2,-85,,speed:54
+Edward,6C:3B:6B:27:97:E9,8,,WPA2 WPA,-86,,speed:54
+InterZet90,26:FF:3F:7C:1E:3F,2,,WPA2,-86,,speed:54
+Keenetic-4788,04:BF:6D:0D:A9:F4,4,,WPA2,-87,,speed:54
+,BC:AE:C5:C3:85:B9,11,,WPA,-88,,speed:-1
+home-63,F8:F0:82:D1:C8:1E,5,,WPA2,-88,,speed:54
+Pudra,AC:85:3D:E7:A3:F8,1,,WPA2 WPA,-89,,speed:54
+MyNet,10:FE:ED:A0:E3:1C,6,,WPA2,-89,,speed:54
+HP83B51F,02:23:43:74:55:6E,10,-,OPN,-100,,speed:11
+,68:7F:74:29:A5:04,3,,WPA,-100,,speed:-1
+HappyFamily,E8:37:7A:95:3E:68,4,Open,,#6,,speed:
+Bogunov,00:22:B0:41:F0:57,6,Open,,#15,,speed:
+ubnt,00:27:22:C4:23:79,9,-,WPA2,-84,00:27:22:68:14:F9 00:27:22:90:B5:BD,speed:54
+ZyXEL_KEENETIC_LITE_3C9FEC,FC:F5:28:3C:9F:EC,1,,WPA,-88,,speed:54
+NETGEAR,A0:21:B7:99:75:7C,4,Open,WPA2 WPA,-75,60:E3:27:D5:D9:F5 E0:06:E6:27:92:36,speed:54,wpa_psk:89213085053,wps_pin:20564650
+Melnik,28:28:5D:DA:2A:54,8,,WPA2,-82,,speed:54
+OK,F4:EC:38:EC:14:46,6,Open,WPA2 WPA,-93,,speed:54
+,00:22:B0:40:25:01,6,,WPA,-100,,speed:-1
+DSL_2640NRU,B8:A3:86:42:5B:91,-1,,,-100,,speed:-1,wpa_psk:31c56245,wps_pin:76229909
+DIR-640L,00:02:92:53:03:03,1,,WPA2,-92,,speed:54
+NETGEAR_EXT,60:E3:27:D5:D9:F5,4,Open,WPA2 WPA,-57,,speed:54
+SVM-FREE,A2:2A:A8:3F:C0:70,6,-,OPN,-80,,speed:54
+Bus,74:D0:2B:5D:67:18,6,Open,WPA2,-80,,speed:54
+WBR-6020,00:11:6B:2C:F3:FB,1,Open,OPN,-82,,speed:54
+LENOVO 110,14:CC:20:C0:73:7C,9,Open,WPA2,-82,,speed:54
+manechka,F8:F0:82:28:BB:D6,1,-,WPA2,-82,,speed:54
+NashWIFI,E4:BE:ED:89:FB:B4,3,-,WPA2,-83,,speed:54
+RYBAK,10:62:EB:86:7A:26,13,-,WPA2,-85,,speed:54
+link2412,C0:4A:00:34:20:4F,11,Open,WPA2 WPA,-86,,speed:54
+Radmila,1C:5F:2B:5E:2C:DB,13,-,WPA2,-88,,speed:54
+(O_o),E0:3F:49:88:9B:58,4,,WPA2,-88,,speed:54
+lara76,D8:FE:E3:CC:C1:1A,1,Open,,#4,,speed:
+skynet69,54:04:A6:BB:15:EC,13,-,,#35,,speed:
+Zet-21,FA:F0:82:83:6C:30,10,-,,#44,,speed:
+Roma,FA:F0:82:41:89:9C,1,-,,#47,,speed:
+Internet,E4:6F:13:0D:CC:EA,5,Open,,#48,,speed:
+Keenetic-8359,28:28:5D:E8:84:DC,11,Open,,#49,,speed:

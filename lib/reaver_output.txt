@@ -1,0 +1,62 @@
+
+Reaver v1.5.3 WiFi Protected Setup Attack Tool
+Copyright (c) 2011, Tactical Network Solutions, Craig Heffner <cheffner@tacnetsol.com>
+mod by t6_x <t6_x@hotmail.com> & DataHead & Soxrok2212 & Wiire & AAnarchYY & KokoSoft
+
+[+] Switching wlan0mon to channel 6
+[+] Waiting for beacon from E0:3F:49:1D:C0:E8
+[+] Associated with E0:3F:49:1D:C0:E8 (ESSID: krvsk)
+[+] Starting Cracking Session. Pin count: 0, Max pin attempts: 11000
+[+] Trying pin 12345670
+[+] Sending EAPOL START request
+[!] WARNING: Receive timeout occurred
+[+] Sending EAPOL START request
+[!] WARNING: Receive timeout occurred
+[+] Sending EAPOL START request
+[+] Received identity request
+[+] Sending identity response
+[+] Received identity request
+[+] Sending identity response
+[+] Received identity request
+[+] Sending identity response
+[+] Received identity request
+[+] Sending identity response
+[P] E-Nonce: 2a:b8:e9:8a:0b:d8:da:f9:a5:56:1f:43:03:af:b4:81
+[P] PKE: ef:94:74:cb:94:a8:f3:b5:0c:89:65:65:59:d1:7f:43:c4:6d:b0:97:98:1f:51:fb:60:cf:4f:8e:0c:3f:97:89:32:44:78:95:04:33:0b:1e:bb:9c:c0:6e:71:cc:d9:96:07:fb:8c:5a:47:64:1e:cc:c1:b9:f4:eb:1e:3c:ee:9f:cf:a9:72:32:3a:2f:32:43:95:a3:42:6a:65:16:1b:cc:b1:34:3c:fc:8c:23:03:95:be:13:a4:8e:0b:c7:65:35:c3:13:ad:03:5a:a7:45:23:7c:2f:4a:2d:27:09:96:b4:b2:8f:06:44:e7:ef:b0:25:5c:32:74:a8:a5:d7:27:90:ba:7c:af:63:c7:0e:bb:03:0c:c2:45:e6:6d:2d:0b:c1:5f:bd:96:5b:c4:2b:9a:19:f5:14:92:91:38:ff:c0:9a:b0:60:4c:d7:b2:07:4f:91:aa:ef:fd:aa:85:95:4d:fd:a8:2c:a6:86:89:3e:32:2a:ce:4b:42:c0:05:a0:af:64
+[P] WPS Manufacturer: ASUSTeK Computer Inc.
+[P] WPS Model Name: Wi-Fi Protected Setup Router
+[P] WPS Model Number: RT-N12VP
+[P] Access Point Serial Number: e0:3f:49:1d:c0:e8
+[+] Received M1 message
+[P] R-Nonce: a0:9f:80:be:13:9d:97:b3:88:c5:43:8e:fc:4b:90:72
+[P] PKR: 60:b4:d5:01:e3:6b:d2:5e:d7:67:f7:b0:b9:24:da:ce:32:1d:b7:74:36:9c:2a:ab:01:a3:6a:90:48:e3:b1:37:a6:57:9e:33:64:df:c4:9a:08:e2:d5:f3:33:b0:9c:dc:11:19:ff:a0:61:86:98:3d:3b:b2:55:66:6b:7c:df:8e:30:83:1b:f7:18:ce:b2:1a:e6:f7:97:a3:f9:f1:dd:04:8c:3a:d0:4b:d6:21:5f:12:9f:53:79:a3:ae:34:03:ce:11:df:63:6a:6e:12:93:e4:71:c0:10:3b:4f:ea:9f:f6:79:d5:65:06:a4:d7:ff:44:44:b3:c6:30:78:72:65:90:c0:74:d2:8b:a3:3c:5c:e1:41:35:25:1b:f3:2a:0b:4a:41:ea:1c:7f:f7:a9:ec:05:ef:74:6a:78:eb:2e:07:83:24:34:62:aa:6f:5d:59:ec:c6:6f:45:98:e0:e7:6a:11:0b:81:fd:69:db:e0:37:b2:30:70:34:f5:86:aa:16:e6
+[P] AuthKey: 90:68:bb:dc:b2:bc:ac:6c:8e:7e:83:16:92:8e:18:8c:77:9f:58:51:23:6a:a7:6d:b1:0a:1f:13:1b:11:cb:74
+[+] Sending M2 message
+[+] Received M1 message
+[+] Sending WSC NACK
+[+] Sending WSC NACK
+[!] WPS transaction failed (code: 0x03), re-trying last pin
+[+] Trying pin 12345670
+[+] Sending EAPOL START request
+[!] WARNING: Receive timeout occurred
+[+] Sending EAPOL START request
+[+] Received M3 message
+[+] Sending WSC NACK
+[+] Sending WSC NACK
+[!] WPS transaction failed (code: 0x03), re-trying last pin
+[+] Trying pin 12345670
+[+] Sending EAPOL START request
+[+] Received identity request
+[+] Sending identity response
+[+] Received identity request
+[+] Sending identity response
+[+] Received identity request
+[+] Sending identity response
+[+] Received identity request
+[+] Sending identity response
+[!] WARNING: Receive timeout occurred
+[+] Sending WSC NACK
+[!] WPS transaction failed (code: 0x02), re-trying last pin
+[+] Trying pin 12345670
+[+] Sending EAPOL START request
+

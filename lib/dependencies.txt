@@ -1,0 +1,25 @@
+Dependencies:
+
+#0
+ifconfig
+gnome-terminal
+
+#1
+# see https://null-byte.wonderhowto.com/how-to/hack-wifi-using-wps-pixie-dust-attack-0162671/
+build-essential
+libpcap-dev
+sqlite3
+libsqlite3-dev
+pixiewps
+reaver # from https://github.com/t6x/reaver-wps-fork-t6x
+# you should update reaver_help.txt & wash_help.txt from reaver --help, wash --help
+
+#2
+aircrack-ng
+
+## oprional
+##3 
+hashcat/oclhashcat
+
+##4
+macchanger

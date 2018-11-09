@@ -1,0 +1,28 @@
+@macchanger
+GNU MAC Changer
+Usage: macchanger [options] device
+@-h
+-h, --help Print this help
+@-V
+-V, --version Print version and exit
+@-s
+-s, --show Print the MAC address and exit
+@-e
+-e, --ending Don't change the vendor bytes
+@-a
+-a, --another Set random vendor MAC of the same kind
+@-A
+-A Set random vendor MAC of any kind
+@-p
+-p, --permanent Reset to original, permanent hardware MAC
+@-r
+-r, --random Set fully random MAC
+@-l
+-l, --list[=keyword] Print known vendors
+@-b
+-b, --bia Pretend to be a burned-in-address
+@-m
+-m, --mac=XX:XX:XX:XX:XX:XX
+@--mac
+--mac XX:XX:XX:XX:XX:XX Set the MAC XX:XX:XX:XX:XX:XX
+Report bugs to https://github.com/alobbs/macchanger/issues

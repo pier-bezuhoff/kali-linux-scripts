@@ -1,0 +1,80 @@
+@airodump-ng
+
+  Airodump-ng 1.2 rc4 - (C) 2006-2015 Thomas d'Otreppe
+  http://www.aircrack-ng.org
+
+  usage: airodump-ng <options> <interface>[,<interface>,...]
+
+@--ivs
+--ivs # Save only captured IVs
+@--gpsd
+--gpsd # Use GPSd
+@--write
+--write <prefix> # Dump file prefix
+@-w
+-w # same as --write
+@--beacons
+--beacons # Record all beacons in dump file
+@--update
+--update <secs> # Display update delay in seconds
+@--showack
+--showack # Prints ack/cts/rts statistics
+@-h
+-h # Hides known stations for --showack
+@-f
+-f <msecs> # Time in ms between hopping channels
+@--berlin
+--berlin <secs> # Time before removing the AP/client
+from the screen when no more packets
+are received (Default: 120 seconds)
+@-r
+-r <file> # Read packets from that file
+@-x
+-x <msecs> # Active Scanning Simulation
+@--manufacturer
+--manufacturer # Display manufacturer from IEEE OUI list
+@--uptime
+--uptime # Display AP Uptime from Beacon Timestamp
+@--wps
+--wps # Display WPS information (if any)
+@--output-format
+--output-format
+<formats> : Output format. Possible values:
+pcap, ivs, csv, gps, kismet, netxml
+@--ignore-negative-one
+--ignore-negative-one # Removes the message that says
+fixed channel <interface>: -1
+@--write-interval
+--write-interval
+<seconds> : Output file(s) write interval in seconds
+@--encrypt
+--encrypt <suite> # Filter APs by cipher suite
+@--netmask
+--netmask <netmask> # Filter APs by mask
+@--bssid
+--bssid <bssid> # Filter APs by BSSID
+@--essid
+--essid <essid> # Filter APs by ESSID
+@--essid-regex
+--essid-regex <regex> # Filter APs by ESSID using a regular
+expression
+@-a
+-a # Filter unassociated clients
+By default, airodump-ng hop on 2.4GHz channels.
+You can make it capture on other/specific channel(s) by using:
+@--channel
+--channel <channels> # Capture on specific channels
+@--band
+--band <abg> # Band on which airodump-ng should hop
+@-C
+-C <frequencies> # Uses these frequencies in MHz to hop
+@--cswitch
+--cswitch <method> # Set channel switching method
+0 : FIFO (default)
+1 : Round Robin
+2 : Hop on last
+@-s
+-s # same as --cswitch
+@--help
+--help # Displays this usage screen
+No interface specified.

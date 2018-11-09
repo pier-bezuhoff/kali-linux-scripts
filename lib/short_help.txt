@@ -1,0 +1,14 @@
+**Short help***
+1) Prepare interface for capture # 1 per boot
+Tools --> Prepare wlan0mon # first you interface should be wlan0
+2) Scan available Wi-Fi's # or load last wifi_list (File --> Load last)
+Scan --> Scan with * # airodump-ng for MAC's, power
+Scan --> Stop updating # after a while
+3) Choose Wi-Fi
+Click on Wi-Fi
+4) Choose action
+Choose and edit it
+5) Start command
+<Enter>
+6) Analyse it...
+...

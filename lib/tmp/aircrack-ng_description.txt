@@ -1,0 +1,77 @@
+@aircrack-ng
+
+  Aircrack-ng 1.2 rc4 - (C) 2006-2015 Thomas d'Otreppe
+  http://www.aircrack-ng.org
+
+  usage: aircrack-ng [options] <.cap / .ivs file(s)>
+
+@-a
+-a <amode> # force attack mode (1/WEP, 2/WPA-PSK)
+@-e
+-e <essid> # target selection: network identifier
+@-b
+-b <bssid> # target selection: access point's MAC
+@-p
+-p <nbcpu> # # of CPU to use (default: all CPUs)
+@-q
+-q # enable quiet mode (no status output)
+@-C
+-C <macs> # merge the given APs to a virtual one
+@-l
+-l <file> # write key to file
+@-c
+-c # search alpha-numeric characters only
+@-t
+-t # search binary coded decimal chr only
+@-h
+-h # search the numeric key for Fritz!BOX
+@-d
+-d <mask> # use masking of the key (A1:XX:CF:YY)
+@-m
+-m <maddr> # MAC address to filter usable packets
+@-n
+-n <nbits> # WEP key length # 64/128/152/256/512
+@-i
+-i <index> # WEP key index (1 to 4), default: any
+@-f
+-f <fudge> # bruteforce fudge factor, default: 2
+@-k
+-k <korek> # disable one attack method (1 to 17)
+@-x
+-x or -x0 # disable bruteforce for last keybytes
+@-x1
+-x1 # last keybyte bruteforcing (default)
+@-x2
+-x2 # enable last 2 keybytes bruteforcing
+@-X
+-X # disable bruteforce multithreading
+@-y
+-y # experimental single bruteforce mode
+@-K
+-K # use only old KoreK attacks (pre-PTW)
+@-s
+-s # show the key in ASCII while cracking
+@-M
+-M <num> # specify maximum number of IVs to use
+@-D
+-D # WEP decloak, skips broken keystreams
+@-P
+-P <num> # PTW debug: 1: disable Klein, 2: PTW
+@-1
+-1 # run only 1 try to crack key with PTW
+@-w
+-w <words> # path to wordlist(s) filename(s)
+@-E
+-E <file> # create EWSA Project file v3
+@-J
+-J <file> # create Hashcat Capture file
+@-S
+-S # WPA cracking speed test
+@-r
+-r <DB> # path to airolib-ng database
+(Cannot be used with -w)
+@-u
+-u # Displays # of CPUs & MMX/SSE support
+@--help
+--help # Displays this usage screen
+No file to crack specified.

@@ -1,0 +1,96 @@
+@aireplay-ng
+
+  Aireplay-ng 1.2 rc4 - (C) 2006-2015 Thomas d'Otreppe
+  http://www.aircrack-ng.org
+
+  usage: aireplay-ng <options> <replay interface>
+
+@-b
+-b bssid # MAC address, Access Point
+@-d
+-d dmac # MAC address, Destination
+@-s
+-s smac # MAC address, Source
+@-m
+-m len # minimum packet length
+@-n
+-n len # maximum packet length
+@-u
+-u type # frame control, type field
+@-v
+-v subt # frame control, subtype field
+@-t
+-t tods # frame control, To DS bit
+@-f
+-f fromds # frame control, From DS bit
+@-w
+-w iswep # frame control, WEP bit
+@-D
+-D # disable AP detection
+@-x
+-x nbpps # number of packets per second
+@-p
+-p fctrl # set frame control word (hex)
+@-a
+-a bssid # set Access Point MAC address
+@-c
+-c dmac # set Destination MAC address
+@-h
+-h smac # set Source MAC address
+@-g
+-g value # change ring buffer size (default: 8)
+@-F
+-F # choose first matching packet
+@-e
+-e essid # set target AP SSID
+@-o
+-o npckts # number of packets per burst (0=auto, default: 1)
+@-q
+-q sec # seconds between keep-alives
+@-Q
+-Q # send reassociation requests
+@-y
+-y prga # keystream for shared key auth
+@-T
+-T n # exit after retry fake auth request n time
+@-j
+-j # inject FromDS packets
+@-k
+-k IP # set destination IP in fragments
+@-l
+-l IP # set source IP in fragments
+@-B
+-B # activates the bitrate test
+@-i
+-i iface # capture packets from this interface
+@-r
+-r file # extract packets from this pcap file
+@-R
+-R # disable /dev/rtc usage
+@--ignore-negative-one
+--ignore-negative-one # if the interface's channel can't be determined,
+ignore the mismatch, needed for unpatched cfg80211
+Attack modes (numbers can still be used):
+@--deauth
+--deauth count # deauthenticate 1 or all stations (-0)
+@--fakeauth
+--fakeauth delay # fake authentication with AP (-1)
+@--interactive
+--interactive # interactive frame selection (-2)
+@--arpreplay
+--arpreplay # standard ARP-request replay (-3)
+@--chopchop
+--chopchop # decrypt/chopchop WEP packet (-4)
+@--fragment
+--fragment # generates valid keystream (-5)
+@--caffe-latte
+--caffe-latte # query a client for new IVs (-6)
+@--cfrag
+--cfrag # fragments against a client (-7)
+@--migmode
+--migmode # attacks WPA migration mode (-8)
+@--test
+--test # tests injection and quality (-9)
+@--help
+--help # Displays this usage screen
+No replay interface specified.
