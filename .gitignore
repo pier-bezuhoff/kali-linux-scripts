@@ -1,0 +1,6 @@
+*~
+*emacs*
+#*#
+*.pyc
+__pycache__
+
