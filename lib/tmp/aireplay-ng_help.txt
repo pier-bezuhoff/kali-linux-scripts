@@ -1,6 +1,6 @@
 
-  Aireplay-ng 1.2 rc4 - (C) 2006-2015 Thomas d'Otreppe
-  http://www.aircrack-ng.org
+  Aireplay-ng 1.4  - (C) 2006-2018 Thomas d'Otreppe
+  https://www.aircrack-ng.org
 
   usage: aireplay-ng <options> <replay interface>
 
@@ -60,6 +60,7 @@
       -R                    : disable /dev/rtc usage
       --ignore-negative-one : if the interface's channel can't be determined,
                               ignore the mismatch, needed for unpatched cfg80211
+      --deauth-rc rc        : Deauthentication reason code [0-254] (Default: 7)
 
   Attack modes (numbers can still be used):
 
@@ -76,4 +77,3 @@
 
       --help              : Displays this usage screen
 
-No replay interface specified.

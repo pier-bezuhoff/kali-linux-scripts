@@ -11,7 +11,6 @@ Usage: macchanger [options] device
   -r,  --random                 Set fully random MAC
   -l,  --list[=keyword]         Print known vendors
   -b,  --bia                    Pretend to be a burned-in-address
-  -m,  --mac=XX:XX:XX:XX:XX:XX
-       --mac XX:XX:XX:XX:XX:XX  Set the MAC XX:XX:XX:XX:XX:XX
+  -m,  --mac=XX:XX:XX:XX:XX:XX  Set the MAC XX:XX:XX:XX:XX:XX
 
 Report bugs to https://github.com/alobbs/macchanger/issues

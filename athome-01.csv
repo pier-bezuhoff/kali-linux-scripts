@@ -1,0 +1,10 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+7C:8B:CA:83:E2:1C, 2018-11-25 03:18:28, 2018-11-25 03:19:51, 11, 270, WPA2, CCMP, PSK, -72,      691,      743,   0.  0.  0.  0,   9, athome191, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+90:00:DB:DA:92:6B, 2018-11-25 03:18:37, 2018-11-25 03:19:37, -68,     1666, 7C:8B:CA:83:E2:1C,athome191
+C4:9D:ED:38:BF:4D, 2018-11-25 03:18:28, 2018-11-25 03:19:51, -69,     1376, 7C:8B:CA:83:E2:1C,athome191
+AC:EE:9E:2F:E8:60, 2018-11-25 03:18:37, 2018-11-25 03:19:42,   0,     1364, 7C:8B:CA:83:E2:1C,athome191
+6C:C4:D5:7B:AA:A0, 2018-11-25 03:18:42, 2018-11-25 03:19:46,   0,     1631, 7C:8B:CA:83:E2:1C,
+

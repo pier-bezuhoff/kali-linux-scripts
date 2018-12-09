@@ -1,7 +1,7 @@
 @airodump-ng
-
-  Airodump-ng 1.2 rc4 - (C) 2006-2015 Thomas d'Otreppe
-  http://www.aircrack-ng.org
+[0m
+  Airodump-ng 1.4  - (C) 2006-2018 Thomas d'Otreppe
+  https://www.aircrack-ng.org
 
   usage: airodump-ng <options> <interface>[,<interface>,...]
 
@@ -47,6 +47,8 @@ fixed channel <interface>: -1
 @--write-interval
 --write-interval
 <seconds> : Output file(s) write interval in seconds
+@--background
+--background <enable> # Override background detection.
 @--encrypt
 --encrypt <suite> # Filter APs by cipher suite
 @--netmask
@@ -62,6 +64,12 @@ expression
 -a # Filter unassociated clients
 By default, airodump-ng hop on 2.4GHz channels.
 You can make it capture on other/specific channel(s) by using:
+@--ht20
+--ht20 # Set channel to HT20 (802.11n)
+@--ht40-
+--ht40- # Set channel to HT40- (802.11n)
+@--ht40+
+--ht40+ # Set channel to HT40+ (802.11n)
 @--channel
 --channel <channels> # Capture on specific channels
 @--band
@@ -77,4 +85,3 @@ You can make it capture on other/specific channel(s) by using:
 -s # same as --cswitch
 @--help
 --help # Displays this usage screen
-No interface specified.

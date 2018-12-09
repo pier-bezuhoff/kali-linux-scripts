@@ -1,0 +1,19 @@
+BSSID               Ch  dBm  WPS  Lck  Vendor    ESSID
+--------------------------------------------------------------------------------
+B0:4E:26:D9:22:E2    1  -41  2.0  No   AtherosC  Hobbit_2.4G
+EA:28:5D:7A:E0:D8    1  -92  1.0  No   RalinkTe  Plumbum
+64:66:B3:33:80:C4    5  -78  1.0  No   AtherosC  Tetnet
+14:DD:A9:CD:F7:70    6  -78  2.0  No   Broadcom  ASUS
+F0:B4:29:83:00:40    6  -87  2.0  No   RalinkTe  Xiaomi_003F
+00:26:5A:32:C4:1D    6  -85  1.0  No   AtherosC  nnz
+D8:50:E6:F2:48:D4    6  -91  2.0  No   Broadcom  kilka
+7C:8B:CA:83:E2:1C   11  -70  2.0  No   RalinkTe  athome191
+00:1F:C6:3D:92:DC   11  -89  1.0  No   Broadcom  Techno
+00:17:9A:72:6D:7C   11  -90  2.0  No   RalinkTe  ENERGO
+D4:60:E3:CF:C4:16   11  -91  2.0  No   RealtekS  MTSRouter_2.4GHz_002815
+18:0F:76:93:FD:C5   13  -91  2.0  No   RealtekS  Sky104
+2C:4D:54:5A:AF:D0   13  -91  1.0  No   RalinkTe  Dimaks
+10:C3:7B:C9:54:B4    2  -89  1.0  No   RalinkTe  ASUS
+90:F6:52:B1:51:56   11  -92  1.0  No   AtherosC  TP-LINK_173
+3C:98:72:34:A4:6C   11  -91  2.0  No   RealtekS  MTSRouter_2.4GHz_013493
+2C:B0:5D:A2:C0:A9    2  -90  1.0  No   AtherosC  Network

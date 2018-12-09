@@ -1,6 +1,6 @@
-Wash v1.5.3 WiFi Protected Setup Scan Tool
+
+Wash v1.6.5 WiFi Protected Setup Scan Tool
 Copyright (c) 2011, Tactical Network Solutions, Craig Heffner
-mod by t6_x<t6_x@hotmail.com>, DataHead, Soxrok2212, Wiire, AAnarchYY & rofl0r
 
 Required Arguments:
 	-i, --interface=<iface>              Interface to capture packets on
@@ -8,16 +8,17 @@ Required Arguments:
 
 Optional Arguments:
 	-c, --channel=<num>                  Channel to listen on [auto]
-	-o, --out-file=<file>                Write data to file
 	-n, --probes=<num>                   Maximum number of probes to send to each AP in scan mode [15]
-	-D, --daemonize                      Daemonize wash
+	-F, --ignore-fcs                     Ignore frame checksum errors
+	-2, --2ghz                           Use 2.4GHz 802.11 channels
 	-5, --5ghz                           Use 5GHz 802.11 channels
 	-s, --scan                           Use scan mode
 	-u, --survey                         Use survey mode [default]
-	-P, --output-piped                   Allows Wash output to be piped. Example. wash x|y|z...
-	-g, --get-chipset                    Pipes output and runs reaver alongside to get chipset
 	-a, --all                            Show all APs, even those without WPS
+	-j, --json                           print extended WPS info as json
+	-U, --utf8                           Show UTF8 ESSID (does not sanitize ESSID, dangerous)
 	-h, --help                           Show help
 
 Example:
 	wash -i wlan0mon
+

@@ -22,7 +22,5 @@ Usage: macchanger [options] device
 @-b
 -b, --bia Pretend to be a burned-in-address
 @-m
--m, --mac=XX:XX:XX:XX:XX:XX
-@--mac
---mac XX:XX:XX:XX:XX:XX Set the MAC XX:XX:XX:XX:XX:XX
+-m, --mac=XX:XX:XX:XX:XX:XX Set the MAC XX:XX:XX:XX:XX:XX
 Report bugs to https://github.com/alobbs/macchanger/issues

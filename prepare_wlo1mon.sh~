@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+sudo systemctl stop NetworkManager.service
+sudo systemctl stop wpa_supplicant.service
+rfkill unblock 1
+sudo airmon-ng check kill
+sudo airmon-ng start wlo1
+sudo airmon-ng start wlo1mon

@@ -1,0 +1,43 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sun Nov 25 16:41:21 2018
+;; Desktop file format version 208
+;; Emacs version 26.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23546 42625 4482 884000) (desktop . "208") "pierbezuhoff@dell-g3-3579" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font-backend xft x) (font . "-DAMA-Ubuntu Mono-normal-normal-normal-*-23-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono 14") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#f6f3e8") (background-color . "#242424") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (no-focus-on-map) (no-accept-focus) (fullscreen . maximized) (visibility . t) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#656565") (sticky) (environment) (frameset--id . "E624-233B-E642-BF46") (frameset--mini t . t) (height . 42) (width . 158) (modeline . t) (unsplittable) (left + -1) (top . 33) (icon-name) (display . ":0") (explicit-name)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 96) (min-pixel-width . 120) (min-pixel-height-ignore . 48) (min-pixel-width-ignore . 48) (min-pixel-height-safe . 24) (min-pixel-width-safe . 24)) leaf (pixel-width . 1920) (pixel-height . 985) (total-width . 160) (total-height . 41) (normal-height . 1.0) (normal-width . 1.0) (buffer "reaver_gui.py" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1) (start . 1))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("reav"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/Programming/Python/kali-linux-scripts/"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/pierbezuhoff/Programming/Python/kali-linux-scripts/reaver_gui.py"
+  "reaver_gui.py"
+  'python-mode
+  '(eldoc-mode elpy-mode company-mode flymake-mode highlight-indentation-mode yas-minor-mode override-global-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 23546 42623 419691 496000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "kali-linux-scripts"
+  'dired-mode
+  '(override-global-mode)
+  2090
+  '(281 nil)
+  t
+  '("/home/pierbezuhoff/Programming/Python/kali-linux-scripts/")
+  '((buffer-display-time 23546 42612 817121 870000))
+  '((mark-ring nil)))
+
